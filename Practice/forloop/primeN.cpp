@@ -25,4 +25,4 @@ int main() {
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++
 // to make this more understandable here you are looping from 2 to NUM-1 so time is more 
 // see the composite once sqrt(n) * sqrt(n) = n will be the max so loop upto sqrt(n)
-// so that you will not able to get the chance to loop thought allll 
+// so that you will not able to get the chance to loop thought allll  
